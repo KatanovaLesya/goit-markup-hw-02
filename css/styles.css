@@ -42,14 +42,18 @@ li{
 {
     color: #404bbf;
 }
-.address-link{
+.contacts
+{
+    font-style: normal;
+}
+.contacts-link{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: inherit;
 }
-.address-link:hover,
-.address-link:focus,
-.address-link:active
+.contacts-link:hover,
+.contacts-link:focus,
+.contacts-link:active
 {
     color: #404bbf;
 }
@@ -99,6 +103,10 @@ li{
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+.team
+{
+    background: #f4f4fd;
+}
 .team-title
 {
     font-size: 36px;
@@ -106,13 +114,19 @@ li{
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 .team-subtitle
 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+    letter-spacing: 0.02em;
     color: #2e2f42;
+}
+.team-list
+{
+    background: #fff;
 }
 .team-text
 {
@@ -126,6 +140,7 @@ li{
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 .portfolio-subtitle
 {
