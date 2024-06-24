@@ -126,9 +126,13 @@ li{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+.team-item
+{
+    background-color: #FFFFFF;
+}
 .team-list
 {
-    background-color: #fff;
+    background-color: #FFFFFF;
 }
 .team-text
 {
@@ -141,6 +145,10 @@ li{
     background-color: #f4f4fd;
 }
 
+.portfolio-item
+{
+    background-color: #FFFFFF;
+}
 .portfolio-list
 {
     background-color: #FFFFFF;
