@@ -59,7 +59,7 @@ li{
 }
 
 .hero{
-    background: #2e2f42;
+    background-color: #2e2f42;
 }
 .hero-title {
     font-size: 56px;
@@ -107,7 +107,7 @@ li{
 }
 .team
 {
-    background: #f4f4fd;
+    background-color: #f4f4fd;
 }
 .team-title
 {
@@ -136,7 +136,12 @@ li{
     letter-spacing: 0.02em;
 }
 
-.portfolio-item
+.portfolio
+{
+    background-color: #f4f4fd;
+}
+
+.portfolio-list
 {
     background-color: #FFFFFF;
 }
