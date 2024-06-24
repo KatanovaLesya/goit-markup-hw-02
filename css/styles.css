@@ -69,7 +69,8 @@ li{
     color: #fff;
 }
 .hero-button{
-    background: #4d59e5;
+    font-family: inherit;
+    background-color: #4d59e5;
     border-color: rgba(77,89,229, 0);
    
     font-weight: 500;
@@ -96,6 +97,7 @@ li{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 .features-text
@@ -126,7 +128,7 @@ li{
 }
 .team-list
 {
-    background: #fff;
+    background-color: #fff;
 }
 .team-text
 {
