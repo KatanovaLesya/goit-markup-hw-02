@@ -70,7 +70,7 @@ li{
 }
 .hero-button{
     font-family: inherit;
-    background-color: #4d59e5;
+    background-color: #4D5AE5;
     border-color: rgba(77,89,229, 0);
    
     font-weight: 500;
@@ -134,6 +134,10 @@ li{
 {
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+.portfolio-list
+{
+    background-color: #FFFFFF;
 }
 .portfolio-title 
 {
